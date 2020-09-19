@@ -1,4 +1,4 @@
-# CMPT-1105-person-information
+# CMPT 1105 Person Information
 
 A Python example of taking multiple inputs and displaying in an appropriate manner. It also demonstrates the use of a Python module called `datetime`.
 
